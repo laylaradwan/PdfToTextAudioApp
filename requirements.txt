@@ -1,0 +1,5 @@
+streamlit
+dropbox
+PyMuPDF
+python-docx
+google-cloud-texttospeech
